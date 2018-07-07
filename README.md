@@ -5,7 +5,7 @@ bash script for happy wedding<br>
 <br>
 first install figlet<br>
 `sudo pacman -S figlet`<br>
-`sudo apt-get figlet`<br>
+`sudo apt-get install figlet`<br>
 
 <br>
 next run<br>
