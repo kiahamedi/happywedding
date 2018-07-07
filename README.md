@@ -9,8 +9,8 @@ first install figlet<br>
 
 <br>
 next run<br>
-`chmod +x happywedding.sh`<br>
+chmod +x happywedding.sh<br>
 
 <br>
 and run with<br>
-`./happywedding.sh`<br>
+./happywedding.sh<br>
